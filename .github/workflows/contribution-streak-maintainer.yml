@@ -2,9 +2,9 @@ name: contribution-streak-maintainer
 
 on:
   workflow_dispatch:
-  schedule:
-    # Runs every day at 10:00 PM UTC
-    - cron: "0 22 * * *"
+  # schedule:
+  #   # Runs every day at 10:00 PM UTC
+  #   - cron: "0 22 * * *"
 
 permissions:
   contents: write
