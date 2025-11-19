@@ -1,7 +1,7 @@
 {
   "name": "contribution-streak-maintainer",
   "description": "Automatically maintain your GitHub contribution streak",
-  "version": "1.0.312",
+  "version": "1.0.313",
   "author": "Elias Afara <afaraelias@gmail.com>",
   "type": "commonjs",
   "bin": {
